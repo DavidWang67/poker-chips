@@ -1,0 +1,7 @@
+{
+    "app_id": "pokerchips_app-aefgtwu",
+    "config_version": 20210101,
+    "name": "pokerChips_app",
+    "provider_region": "aws-ap-southeast-1",
+    "deployment_model": "LOCAL"
+}
